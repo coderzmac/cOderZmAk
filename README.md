@@ -4,8 +4,8 @@
   <a href="https://github.com/coderzmac?tab=followers">
     <img alt="followers" src="https://img.shields.io/github/followers/coderzmac?label=Follow&style=flat-square">
   </a>
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=coderzmac.coderzmac">
-    <img alt="views" src="https://visitor-badge.laobi.icu/badge?page_id=coderzmac.coderzmac">
+  <a href="mailto:YOUR_EMAIL@example.com">
+  <img alt="email" src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail">
   </a>
 </p>
 
