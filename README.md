@@ -31,7 +31,7 @@
 
 <!-- Contribution Streak -->
 <p>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=coderzmac&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Overall Stats -->
