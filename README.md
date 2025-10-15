@@ -1,11 +1,14 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Emmanuel 👋</h1>
 <p align="center">
+  <a href="mailto:emaec1102@gmail.com">
+    <img alt="email" src="https://img.shields.io/badge/Email-your.email%40domain.com-blue?style=flat-square&logo=gmail">
+  </a>
   <a href="https://github.com/coderzmac?tab=followers">
     <img alt="followers" src="https://img.shields.io/github/followers/coderzmac?label=Follow&style=flat-square">
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-  <img alt="email" src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=coderzmac.coderzmac">
+    <img alt="views" src="https://visitor-badge.laobi.icu/badge?page_id=coderzmac.coderzmac">
   </a>
 </p>
 
