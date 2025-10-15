@@ -13,7 +13,6 @@
 </p>
 
 ## 🚀 What I’m Building
-- 🎮 **Language Quest** – Unity 2D bilingual puzzle-adventure
 - 💸 **BudgetMate** – Personal finance app with smart insights
 - 🗺️ **Crime Hotspot Simulator** – ML + maps for spatio-temporal analysis
 
@@ -36,7 +35,7 @@
 
 <!-- Overall Stats -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coderzmac&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <!-- Top Languages (note: it's repo-language mix, not time!) -->
