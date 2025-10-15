@@ -52,5 +52,4 @@
 ---
 
 ## 📫 Connect
-- Portfolio: your-site.com
-- LinkedIn: linkedin.com/in/your-handle
+- LinkedIn: https://www.linkedin.com/in/emmanuel-bautista-a4822626b/
