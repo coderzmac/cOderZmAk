@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Emmanuel 👋</h1>
 <p align="center">
   <a href="mailto:emaec1102@gmail.com">
-    <img alt="email" src="https://img.shields.io/badge/Email-your.email%40domain.com-blue?style=flat-square&logo=gmail">
+    <img alt="email" src="https://img.shields.io/badge/Email-your.emaec1102%40gmail.com-blue?style=flat-square&logo=gmail">
   </a>
   <a href="https://github.com/coderzmac?tab=followers">
     <img alt="followers" src="https://img.shields.io/github/followers/coderzmac?label=Follow&style=flat-square">
