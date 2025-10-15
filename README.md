@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Emmanuel 👋</h1>
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=flat-square"></a>
+  <a href="https://github.com/coderzmac?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=flat-square"></a>
   <a href="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME"><img alt="views" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME"></a>
   <a href="mailto:emaec1102@gmail.com.com"><img alt="email" src="https://img.shields.io/badge/Email-emaec1102@gmail.com-blue?style=flat-square"></a>
 </p>
