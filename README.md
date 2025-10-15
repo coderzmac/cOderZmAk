@@ -1,7 +1,56 @@
-### Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Emmanuel 👋</h1>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=flat-square"></a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME"><img alt="views" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME"></a>
+  <a href="mailto:your.email@example.com"><img alt="email" src="https://img.shields.io/badge/Email-hello%40example.com-blue?style=flat-square"></a>
+</p>
 
-- 🔭 I’m currently working on a AI for crime detection!
-- 👯 I’m looking to collaborate on any projects and contribute! 
-- 💬 Ask me about anything!
-- 📫 How to reach me: The links I provided!
-- ⚡ Fun fact: I love watching the football (soccer), programming, and video games!
+## 🚀 What I’m Building
+- 🎮 **Language Quest** – Unity 2D bilingual puzzle-adventure
+- 💸 **BudgetMate** – Personal finance app with smart insights
+- 🗺️ **Crime Hotspot Simulator** – ML + maps for spatio-temporal analysis
+
+## 🛠️ Tech
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+---
+
+## 📈 Activity & Stats
+
+<!-- Contribution Streak -->
+<p>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Overall Stats -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<!-- Top Languages (note: it's repo-language mix, not time!) -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top Langs" />
+</p>
+
+<!-- Activity Graph (last 30–60 days) -->
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true" alt="Activity Graph">
+</p>
+
+---
+
+## 🔭 Pinned Work
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&hide_border=true)](https://github.com/YOUR_USERNAME/YOUR_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&hide_border=true)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
+
+---
+
+## 📫 Connect
+- Portfolio: your-site.com
+- LinkedIn: linkedin.com/in/your-handle
