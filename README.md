@@ -41,12 +41,12 @@
 
 <!-- Top Languages (note: it's repo-language mix, not time!) -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderzmac&layout=compact&hide_border=true" alt="Top Langs" />
 </p>
 
 <!-- Activity Graph (last 30–60 days) -->
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderzmac&hide_border=true&area=true" alt="Activity Graph">
 </p>
 
 ---
