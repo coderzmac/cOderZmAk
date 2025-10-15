@@ -51,8 +51,8 @@
 ---
 
 ## 🔭 Pinned Work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&hide_border=true)](https://github.com/YOUR_USERNAME/YOUR_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&hide_border=true)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
+
+[![CrimeHotspotSim](https://github-readme-stats.vercel.app/api/pin/?username=coderzmac&repo=CrimeHotspotSim&hide_border=true)](https://github.com/coderzmac/CrimeHotspotSim)
 
 ---
 
